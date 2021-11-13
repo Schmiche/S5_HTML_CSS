@@ -1,0 +1,14 @@
+h2 {
+    background-color: #e7f2f8;
+    color: #f652a0;
+    padding: 5px;
+}
+
+.title {
+    font-size: 65px;
+}
+
+.main_body {
+    font-size: 33px;
+    color: #0f022d;
+}
